@@ -12,13 +12,13 @@ Eventually this results in all of the columns being stacked vertically. Choosing
 
 Create a Web Page which resembles the images below following Column drop pattern using Bootstrap framework.
 
-**Desktop Image**
+### Desktop Image
 
 ![](./Desktop-Image.png)
-**Tab Image**
+### Tab Image
 
 ![](./Tab-Image.png)
-**Mobile Image**
+### Mobile Image
 
 ![](./Mobile-Image.png)
 
